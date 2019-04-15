@@ -1,0 +1,37 @@
+/*Makes changes to the title page*/
+h1 {
+  color: white;
+  background-color: rgb(27,139,175);
+  font-size: 35px;
+  text-align: center;
+  back
+}
+
+/*Makes changes to the middle "bar" of the website*/
+form {
+  text-align: center;
+  font-size: 20px;
+  color: black;
+  background-color: #C9C9C9;
+}
+
+/*Made the button bigger*/
+button {
+  font-size: 20px;
+}
+
+/*Changes the size of the output made by the JS*/
+div {
+  text-align: center;
+  font-size: 35px;
+}
+
+/*Changes the size of the image*/
+.stanford-img {
+  width: 100px;
+}
+
+.txt-img {
+  width: 200px;
+  height: 150px;
+}
